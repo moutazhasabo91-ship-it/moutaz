@@ -1,0 +1,10 @@
+{
+  "name": "Remix: AI Hiring Engine",
+  "description": "A professional AI-powered hiring platform that analyzes job descriptions and candidate CVs to provide deep insights, rankings, and interview questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Analysis",
+    "Hiring Dashboard",
+    "Candidate Ranking"
+  ]
+}
